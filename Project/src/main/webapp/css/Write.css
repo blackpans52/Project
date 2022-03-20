@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+.write_table tr:nth-child(2) td span {
+    font-size: 20px;
+    display: inline-block;
+    margin: 5px 8px;
+}
+
+.write_table tr:nth-child(2) td label {
+	margin-right: 5px;
+}
